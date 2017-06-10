@@ -255,6 +255,7 @@ PRODUCT_COPY_FILES += \
     vendor/oukitel/u15s/proprietary/lib/hw/camera.mt6750.so:system/lib/hw/camera.mt6750.so \
     vendor/oukitel/u15s/proprietary/lib64/hw/camera.mt6750.so:system/lib64/hw/camera.mt6750.so \
     vendor/oukitel/u15s/proprietary/lib64/hw/fingerprint.mt6750.so:system/lib64/hw/fingerprint.mt6750.so \
+    vendor/oukitel/u15s/proprietary/lib64/libfprint-x64.so:system/lib64/libfprint-x64.so \
     vendor/oukitel/u15s/proprietary/bin/spm_loader:system/bin/spm_loader \
     vendor/oukitel/u15s/proprietary/lib/libaudio_param_parser.so:system/lib/libaudio_param_parser.so \
     vendor/oukitel/u15s/proprietary/lib64/libaudio_param_parser.so:system/lib64/libaudio_param_parser.so \
